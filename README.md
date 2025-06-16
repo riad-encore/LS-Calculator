@@ -1,1 +1,3 @@
-# LS-Calculator
+# LS Calculator
+
+Basic Calculator
